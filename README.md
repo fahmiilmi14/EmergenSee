@@ -57,3 +57,5 @@ Dengan mengintegrasikan data lingkungan real-time dan pemetaan jalur evakuasi, E
 ![logo](assets/8.png)
 *Catatan: Aplikasi tidak memerlukan proses login untuk memastikan akses instan saat terjadi kondisi darurat.*
 ---
+
+# The Expert in anything was once a beginner
